@@ -10,4 +10,5 @@ environment. Experienced in documenting detailed case reports. Proactive learner
 people from malicious adversaries.
 
 ## Projects
+- Adversary Simulation and Vulnerability Assessment
 - Secure Network Design Plan
