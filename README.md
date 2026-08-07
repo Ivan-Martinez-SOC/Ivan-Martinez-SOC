@@ -10,8 +10,7 @@ environment. Experienced in documenting detailed case reports. Proactive learner
 people from malicious adversaries.
 
 ## Projects
-- SOC Analyst Simulation
 - Adversary Simulation and Vulnerability Assessment
-- Secure Network Design Plan
+- [Secure Network Design Plan](https://github.com/Ivan-Martinez-SOC/Secure-Network-Design-Plan)
 
 GitHub Page currently WIP
