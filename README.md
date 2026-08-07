@@ -1,6 +1,6 @@
 ## Welcome!
 
-Hi, I'm Ivan and a cybersecurity practitioner. This account will be used to publish and share all my projects. Feel free to explore and join me on my journey!
+Hi, I'm Ivan and a cybersecurity practitioner. I love to build and work on tech related projects. This account will be used to publish and share all my projects. Feel free to explore and join me on my journey!
 
 ## Objective
 
