@@ -10,5 +10,6 @@ environment. Experienced in documenting detailed case reports. Proactive learner
 people from malicious adversaries.
 
 ## Projects
+- SOC Analyst Simulation
 - Adversary Simulation and Vulnerability Assessment
 - Secure Network Design Plan
