@@ -13,7 +13,7 @@ people from malicious adversaries.
 
 | Name | Tools | Skills |
 | ---- | ----- | ------ |
-| [Adversary Simulation and Vulnerability Assessment](https://github.com/Ivan-Martinez-SOC/Adversary-Simulation-and-Vulnerability-Assessment) | Kali Linux, OpenVAS, Nmap, Metasploit | Vulnerability Assessment, Threat & Vulnerability Management, MITRE ATT&CK Framework, Cyber Kill Chain Framework, Ethical Hacking | 
+| [Adversary Simulation and Vulnerability Assessment](https://github.com/Ivan-Martinez-SOC/Adversary-Simulation-and-Vulnerability-Assessment) | Kali Linux, OpenVAS, Nmap, Metasploit | Vulnerability Assessment, Threat & Vulnerability Management, MITRE ATT&CK Framework, Cyber Kill Chain Framework and Ethical Hacking | 
 | [Secure Network Design Plan](https://github.com/Ivan-Martinez-SOC/Secure-Network-Design-Plan) | None | Network Security and Network Design | 
 
 ### Education
